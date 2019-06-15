@@ -1,1 +1,1 @@
-# redhat is an institute where we are providing safety courses, both at national and international levels.
+# Redhat is an institute where we are providing safety courses, both at national and international levels. National level has BSS Diploma certified by central government and International level courses has International General Certification Level-3 and International Diploma Level-6 certified by Nebosh,UK
